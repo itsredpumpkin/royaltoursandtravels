@@ -1,0 +1,20 @@
+{
+  "name": "royal-tours-travels",
+  "version": "1.0.0",
+  "description": "Royal Tours & Travels - Professional Travel & Tourism Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Static website - open index.html in browser'",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "tours",
+    "travels",
+    "tourism",
+    "bookings",
+    "destinations"
+  ],
+  "author": "itsredpumpkin",
+  "license": "ISC",
+  "type": "static"
+}
